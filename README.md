@@ -1,5 +1,6 @@
 # Project_Ensemble_Learning
 ## Abstract
+
 Class imbalance problems arise when the numbers of examples in each class are
 unequal, causing challenges for traditional machine-learning models. This paper proposes two ensemble learning techniques, Hard Example Mining (HEM)
 and Soft Example Mining (SEM), to handle class imbalance. HEM focuses
